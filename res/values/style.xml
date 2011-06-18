@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style parent="@android:style/Widget.ProgressBar.Large" name="loading">
+        <item name="android:indeterminateDrawable">@anim/loading</item>
+    </style>
+</resources>

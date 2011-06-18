@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cnbeta Reader</string>
+    <string name="all_artcile">全部文章</string>
+    <string name="hot_comment">精彩評論</string>
+    <string name="top_10">Top 10</string>
+    <string name="focus_artcile">專題列表</string>
+    <string name="bookmark">收藏夾</string>
+    <string name="read_history">最近閱讀</string>
+</resources>

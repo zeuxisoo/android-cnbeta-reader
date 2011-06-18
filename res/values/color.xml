@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="article_content_bgcolor">#fff8f8f8</color>
+    <color name="content_header_title_font_color">#ff000000</color>
+    <color name="content_header_description_font_color">#ff4b4b4b</color>
+    <color name="article_content_list_description">#ff4b4b4b</color>
+    <color name="article_content_list_click_view">#ff0000ff</color>
+    <color name="comment_header_background_color">#ffdde4ef</color>
+</resources>
